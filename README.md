@@ -19,17 +19,14 @@ Recycling Pickup is every Thursday Morning. Trash Pickup is on Monday Morning an
 #### FAQ
 
 1. How do I turn on the Stove?
-
-* Video on [Glide Touch Controls](https://www.youtube.com/embed/Lj3tS_uROFc?rel=0)
-* Video on [Induction Cooktop Technology](https://www.youtube.com/embed/7Q20zZJAwD4?rel=0)
+    * Video on [Glide Touch Controls](https://www.youtube.com/embed/Lj3tS_uROFc?rel=0)
+    * Video on [Induction Cooktop Technology](https://www.youtube.com/embed/7Q20zZJAwD4?rel=0)
 
 2. Do I need to feed the fish?
-
-* You do not need to feed the fish! They are fed regularly with pellets. When they are not fed pellets, they still enjoy feeding off of organic matter. 
+    * You do not need to feed the fish! They are fed regularly with pellets. When they are not fed pellets, they still enjoy feeding off of organic matter. 
 
 3. There is someone outside mowing the lawn. Do I need to be alarmed?
-
-* You do not need to be worried. Changes are it is your host stopping by and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause. 
+    * You do not need to be worried. Changes are it is your host stopping by and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause. 
 
 
 * * * * *
@@ -61,16 +58,16 @@ Please place all trash and recycling in the appropriate bin before you leave. **
 #### FAQ
 
 1. How do I turn on the overhead fan?
-* You should see a circle shaped light switch behind the lamp next to the couch. This switch controls the overhead fan. Note that it does not control the speed of the fan. The fan is either on or off. 
+    * You should see a circle shaped light switch behind the lamp next to the couch. This switch controls the overhead fan. Note that it does not control the speed of the fan. The fan is either on or off. 
 
 2. How do I turn on the AC and adjust it?
-* There is a remote control for the splitter that is in the kitchen. The remote does have additional controls that you'll find by sliding down the cover of the remote. 
+    * There is a remote control for the splitter that is in the kitchen. The remote does have additional controls that you'll find by sliding down the cover of the remote. 
 
 3. Is there cable TV?
-* We do not have Cable TV at this listing. There are plenty of streaming apps available on the Roku TV in the living room. 
+    * We do not have Cable TV at this listing. There are plenty of streaming apps available on the Roku TV in the living room. 
 
 4. There is someone outside mowing the lawn. Do I need to be alarmed?
-* You do not need to be worried. Changes are it is your host stopping by and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause. 
+    * You do not need to be worried. Changes are it is your host stopping by and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause. 
 
 
 * * * * *
@@ -88,7 +85,7 @@ More information on Trash and Recycling can be found [at this link.](https://www
 #### FAQ
 
 1. Am I allowed to use the beach?
-* **Yes!** I pay yearly for dues for the Mago Point Beach Association. You are allowed to use this beach and dock. Please be friendly to the neighbors and other beachgoers. 
+    * **Yes!** I pay yearly for dues for the Mago Point Beach Association. You are allowed to use this beach and dock. Please be friendly to the neighbors and other beachgoers. 
 
 
 ### Support or Contact

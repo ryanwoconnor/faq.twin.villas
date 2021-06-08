@@ -28,7 +28,7 @@ We have two air conditioners in the house. They are located in each bedroom. The
 
 ##### Trash and Recycling Schedule
 
-Recycling Pickup is every Thursday Morning. Trash Pickup is on Monday Morning and Thursday Morning. If you are staying during one of these days, please take the appropriate bins to the curb. 
+Recycling Pickup is every Thursday Morning. Trash Pickup is on Monday Morning and Thursday Morning. If you are staying during one of these days, please take the appropriate bins to the curb. **Trash must be bagged**
 
 #### FAQ
 
@@ -123,6 +123,8 @@ We have one air conditioner in the house. It is located in the dining room. This
 🔵  Green Bin is for Trash
 
 🟢  Green Bin is for Recycling
+
+Trash can be placed by the curb every Wednesday. Every other Wednesday is Trash and recycling. If you are staying during one of these days, please take the appropriate bins to the curb. If you are unsure if recycling is going out that day, you can either just put both bins out or check to see what the neighbors do with their bins and copy them 😀 **Trash must be bagged**
 
 More information on Trash and Recycling can be found [at this link.](https://www.waterfordct.org/public-works/pages/recycling-single-stream)
 

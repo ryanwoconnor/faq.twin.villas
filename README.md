@@ -1,10 +1,33 @@
-## Welcome to GitHub Pages
+## Welcome to Twin Villas Airbnb Info
 
-You can use the [editor on GitHub](https://github.com/ryanwoconnor/twin.villas.faq/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here you will find all of the relevant information to your Airbnb stay. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Beebe Cove BnB
+
+#### Trash and Recycling
+
+#### FAQ
+
+### Rustic Retreat
+
+#### Trash and Recycling
+
+#### FAQ
+
+### Carriage House
+
+#### Trash and Recycling
+
+#### FAQ
+
+### Cozy Cottage on the River
+
+#### Trash and Recycling
+
+#### FAQ
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 

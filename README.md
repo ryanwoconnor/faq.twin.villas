@@ -1,6 +1,6 @@
 ## Welcome to Twin Villas Airbnb Info
 
-Here you will find general information about our Airbnb listings. We are continually adding information here for our guests as new questions arrise. If you have any feedback or information you think would be helpful to add, please let us know!
+Here you will find general information about our Airbnb listings. We are continually adding information here for our guests as new questions arrise. If you have any feedback or information you think would be helpful to add, please let us know! Please also do not hesitate to reach out with any questions, comments, or concerns immediately. We like to correct any issues and give guests a stellar experience. 
 
 ### Table of Contents
 1. [Beebe Cove BnB](#beebe-cove-bnb)
@@ -86,6 +86,9 @@ When you enter the driveway, please pull straight in and park in front of the Gu
 * * * * *
 ### Carriage House
 
+Information for our Airbnb Listing in Stonington, CT found [at this link.](https://www.airbnb.com/h/carriagehousestonington)
+
+
 #### Thermostat Information
 
 We have three thermostats in this apartment. The apartment is equipped with electric heat. The thermostats are located in the bedroom, the living room, and in the bathroom inside the cabinet above the toilet. 
@@ -159,4 +162,4 @@ More information on Trash and Recycling can be found [at this link.](https://www
 
 ## Support or Contact
 
-If you have any questions regarding this page, or about the listing you are staying in, please contact us ASAP via Airbnb. We really strive to give guests a 5-star experience and are looking forward to hosting you! 
+If you have any questions regarding this page, or about the listing you are staying in, please contact us ASAP via Airbnb. We really strive to give guests a 5 ⭐️ experience and are looking forward to hosting you! 

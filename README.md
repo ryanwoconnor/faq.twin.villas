@@ -1,8 +1,8 @@
-# Welcome to Twin Villas Airbnb Info
+## Welcome to Twin Villas Airbnb Info
 
 Here you will find general information about our Airbnb listings. We are continually adding information here for our guests as new questions arrise. If you have any feedback or information you think would be helpful to add, please let us know!
 
-## Table of Contents
+### Table of Contents
 1. [Beebe Cove BnB](#beebe-cove-bnb)
 2. [Rustic Retreat](#rustic-retreat)
 3. [Carriage House](#carriage-house)
@@ -112,6 +112,12 @@ Please place all trash and recycling in the appropriate bin before you leave. **
 
 #### Thermostat Information
 
+We have one thermostat in this house. The thermostat is located in the living room. The heat is limited to no more than 72 degrees. We have oil based heat in this house. 
+
+#### Air Conditioning
+
+We have one air conditioner in the house. It is located in the dining room. This unit is not controlled by the thermostats on the walls. You need to utilize the buttons on the air conditioner to control the unit. We typically install the Air conditioner in Mid-May when it starts to get hot out. 
+
 #### Trash and Recycling
 
 🔵  Green Bin is for Trash
@@ -126,6 +132,6 @@ More information on Trash and Recycling can be found [at this link.](https://www
     * **Yes!** I pay yearly for dues for the Mago Point Beach Association. You are allowed to use this beach and dock. Please be friendly to the neighbors and other beachgoers. 
 
 
-### Support or Contact
+## Support or Contact
 
 If you have any questions regarding this page, or about the listing you are staying in, please contact us via Airbnb.

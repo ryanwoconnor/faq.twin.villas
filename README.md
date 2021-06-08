@@ -30,6 +30,10 @@ We have two air conditioners in the house. They are located in each bedroom. The
 
 Recycling Pickup is every Thursday Morning. Trash Pickup is on Monday Morning and Thursday Morning. If you are staying during one of these days, please take the appropriate bins to the curb. **Trash must be bagged**
 
+#### Parking
+
+Please limit the number of vehicles to no more than 2 cars. If you do need to bring additional cars please let us know. 
+
 #### FAQ
 
 1. How do I turn on the Stove?
@@ -62,6 +66,10 @@ We have two air conditioners in the apartment. They are located in the bedroom a
 
 Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
 
+#### Parking
+
+When you enter the driveway, please pull straight in and park in front of the Guest Parking sign that is visible straight ahead. Please limit the number of vehicles to no more than 2 cars. We unfortunately do not have the space to host many cars for this specific listing. 
+
 #### FAQ
 
 1. There is someone outside by the pool. Do I need to be alarmed?
@@ -89,6 +97,10 @@ We have one air conditioner in the apartment. It is located in the kitchen. This
 ⚫  Black Bin is for trash
 
 Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
+
+#### Parking
+
+When you enter the driveway, please follow the driveway to the left and head straight back. You'll see a Guest Parking sign that is visible straight ahead. Please limit the number of vehicles to no more than 2 cars. We unfortunately do not have the space to host many cars for this specific listing. 
 
 #### FAQ
 
@@ -127,6 +139,11 @@ We have one air conditioner in the house. It is located in the dining room. This
 Trash can be placed by the curb every Wednesday. Every other Wednesday is Trash and recycling. If you are staying during one of these days, please take the appropriate bins to the curb. If you are unsure if recycling is going out that day, you can either just put both bins out or check to see what the neighbors do with their bins and copy them 😀 **Trash must be bagged**
 
 More information on Trash and Recycling can be found [at this link.](https://www.waterfordct.org/public-works/pages/recycling-single-stream)
+
+#### Parking
+
+**Please park in the driveway and refrain from parking in the street whenever possible**. Please limit the number of vehicles to no more than 2 cars. If you do need to bring additional cars please let us know. 
+
 
 #### FAQ
 

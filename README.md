@@ -12,6 +12,8 @@ Here you will find general information about our Airbnb listings. We are continu
 
 ### Beebe Cove BnB
 
+Information for our Airbnb Listing in Mystic, CT found [at this link.](https://www.airbnb.com/h/beebebnb)
+
 #### Thermostat Information
 
 We have three thermostats in this house. They are located in the kitchen, the downstairs bedroom, and the upstairs bedroom. The heat is limited to no more than 72 degrees. You'll also notice that there may be noise coming from the door next to the downstairs bedroom. This is the room where the boiler is located and it does make some noise when it is burning oil. 
@@ -50,6 +52,8 @@ Please limit the number of vehicles to no more than 2 cars. If you do need to br
 * * * * *
 
 ### Rustic Retreat
+
+Information for our Airbnb Listing in Stonington, CT found [at this link.](https://www.airbnb.com/h/rusticretreatct)
 
 #### Thermostat Information
 
@@ -121,6 +125,8 @@ When you enter the driveway, please follow the driveway to the left and head str
 * * * * *
 
 ### Cozy Cottage on the River
+
+Information for our Airbnb Listing in Waterford, CT found [at this link.](https://www.airbnb.com/h/cozycottagect)
 
 #### Thermostat Information
 

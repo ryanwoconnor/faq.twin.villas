@@ -99,7 +99,7 @@ We have one air conditioner in the apartment. It is located in the kitchen. This
 
 #### Trash and Recycling
 
-🔵  Green Bin is for Recycling
+🟢  Green Bin is for Recycling
 
 ⚫  Black Bin is for trash
 

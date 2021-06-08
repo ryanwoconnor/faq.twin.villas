@@ -19,9 +19,10 @@ Here you will find all of the relevant information to your Airbnb stay.
 
 #### FAQ
 
-How do I turn on the Stove?
-Do I need to feed the fish?
-When is trash day?
+1. How do I turn on the Stove?
+
+3. Do I need to feed the fish?
+
 
 * * * * *
 
@@ -36,7 +37,7 @@ Please place all trash and recycling in the appropriate bin before you leave. **
 
 #### FAQ
 
-How do I turn on the AC and adjust it?
+1. How do I turn on the AC and adjust it?
 
 * * * * *
 ### Carriage House
@@ -51,11 +52,11 @@ Please place all trash and recycling in the appropriate bin before you leave. **
 
 #### FAQ
 
-##### How do I turn on the overhead fan?
+1. How do I turn on the overhead fan?
 
-##### How do I turn on the AC and adjust it?
+2. How do I turn on the AC and adjust it?
 
-##### Is there cable TV?
+3. Is there cable TV?
 
 * * * * *
 ### Cozy Cottage on the River
@@ -70,7 +71,7 @@ More information on Trash and Recycling can be found [at this link.](https://www
 
 #### FAQ
 
-Am I allowed to use the beach?
+1. Am I allowed to use the beach?
 
 
 

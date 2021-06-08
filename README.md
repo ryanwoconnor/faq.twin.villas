@@ -2,6 +2,7 @@
 
 Here you will find all of the relevant information to your Airbnb stay. 
 
+* * * * *
 
 ### Beebe Cove BnB
 
@@ -16,13 +17,13 @@ Here you will find all of the relevant information to your Airbnb stay.
 
 ##### Trash Pickup is on Monday Morning and Thursday Morning
 
-
 #### FAQ
 
 How do I turn on the Stove?
 Do I need to feed the fish?
 When is trash day?
 
+* * * * *
 
 ### Rustic Retreat
 
@@ -37,7 +38,7 @@ Please place all trash and recycling in the appropriate bin before you leave. **
 
 How do I turn on the AC and adjust it?
 
-
+* * * * *
 ### Carriage House
 
 #### Trash and Recycling
@@ -56,12 +57,10 @@ Please place all trash and recycling in the appropriate bin before you leave. **
 
 ##### Is there cable TV?
 
-
+* * * * *
 ### Cozy Cottage on the River
 
 #### Trash and Recycling
-
-#### FAQ
 
 🔵  Green Bin is for Trash
 
@@ -69,6 +68,9 @@ Please place all trash and recycling in the appropriate bin before you leave. **
 
 More information on Trash and Recycling can be found [at this link.](https://www.waterfordct.org/public-works/pages/recycling-single-stream)
 
+#### FAQ
+
+Am I allowed to use the beach?
 
 
 

@@ -1,6 +1,6 @@
 ## Welcome to Twin Villas Airbnb Info
 
-Here you will find general information about our Airbnb listings. We are continually adding information here for our guests as new questions arrise or new features are added. If you have any feedback or information you think would be helpful to add, please let us know! Please also do not hesitate to reach out with any questions, comments, or concerns immediately. We like to correct any issues and give guests a stellar experience. 
+Here you will find general information about our Airbnb listings. We are continually adding information here for our guests as new questions arise or new features are added. If you have any feedback or information you think would be helpful to add, please let us know! Please also do not hesitate to reach out with any questions, comments, or concerns immediately. We like to correct any issues and give guests a stellar experience. 
 
 ### Table of Contents
 1. [Beebe Cove BnB](#beebe-cove-bnb)
@@ -141,7 +141,7 @@ We have one air conditioner in the house. It is located in the dining room. This
 
 #### Trash and Recycling
 
-🔵  Green Bin is for Trash
+🔵  Blue Bin is for Trash
 
 🟢  Green Bin is for Recycling
 

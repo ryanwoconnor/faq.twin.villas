@@ -64,15 +64,12 @@ Please place all trash and recycling in the appropriate bin before you leave. **
 * You should see a circle shaped light switch behind the lamp next to the couch. This switch controls the overhead fan. Note that it does not control the speed of the fan. The fan is either on or off. 
 
 2. How do I turn on the AC and adjust it?
-
 * There is a remote control for the splitter that is in the kitchen. The remote does have additional controls that you'll find by sliding down the cover of the remote. 
 
 3. Is there cable TV?
-
 * We do not have Cable TV at this listing. There are plenty of streaming apps available on the Roku TV in the living room. 
 
 4. There is someone outside mowing the lawn. Do I need to be alarmed?
-
 * You do not need to be worried. Changes are it is your host stopping by and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause. 
 
 
@@ -91,34 +88,7 @@ More information on Trash and Recycling can be found [at this link.](https://www
 #### FAQ
 
 1. Am I allowed to use the beach?
-
 * **Yes!** I pay yearly for dues for the Mago Point Beach Association. You are allowed to use this beach and dock. Please be friendly to the neighbors and other beachgoers. 
-
-
-
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ### Support or Contact

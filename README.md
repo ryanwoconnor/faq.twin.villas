@@ -7,25 +7,70 @@ Here you will find all of the relevant information to your Airbnb stay.
 
 #### Trash and Recycling
 
+🔵  Blue Bin is for Recycling
+
+##### Recycling Pickup is on Thursday Morning
+
+
+⚫  Grey Bin is for trash
+
+##### Trash Pickup is on Monday Morning and Thursday Morning
+
+
 #### FAQ
+
+How do I turn on the Stove?
+Do I need to feed the fish?
+When is trash day?
+
 
 ### Rustic Retreat
 
 #### Trash and Recycling
 
+
+⚫  Metal Bin out front is for trash
+
+Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
+
 #### FAQ
+
+How do I turn on the AC and adjust it?
+
 
 ### Carriage House
 
 #### Trash and Recycling
 
+🔵  Green Bin is for Recycling
+
+⚫  Black Bin is for trash
+
+Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
+
 #### FAQ
+
+##### How do I turn on the overhead fan?
+
+##### How do I turn on the AC and adjust it?
+
+##### Is there cable TV?
+
 
 ### Cozy Cottage on the River
 
 #### Trash and Recycling
 
 #### FAQ
+
+🔵  Green Bin is for Trash
+
+🟢  Green Bin is for Recycling
+
+More information on Trash and Recycling can be found [at this link.](https://www.waterfordct.org/public-works/pages/recycling-single-stream)
+
+
+
 
 
 
@@ -51,10 +96,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ryanwoconnor/twin.villas.faq/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any questions regarding this page, or about the listing you are staying in, please contact us via Airbnb.

@@ -136,4 +136,4 @@ More information on Trash and Recycling can be found [at this link.](https://www
 
 ## Support or Contact
 
-If you have any questions regarding this page, or about the listing you are staying in, please contact us via Airbnb.
+If you have any questions regarding this page, or about the listing you are staying in, please contact us ASAP via Airbnb. We really strive to give guests a 5-star experience and are looking forward to hosting you! 

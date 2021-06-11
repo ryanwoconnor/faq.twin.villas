@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Rustic Retreat"
-permalink: /rusticretreat/
+permalink: /rusticretreat
 ---
 
 ## Welcome to Twin Villas Airbnb Info

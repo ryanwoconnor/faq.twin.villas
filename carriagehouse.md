@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Carriage House Apartment"
-permalink: /carriagehouse/
+permalink: /carriagehouse
 ---
 
 ## Welcome to Twin Villas Airbnb Info

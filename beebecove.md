@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Beebe Cove BnB"
-permalink: /beebecove/
+permalink: /beebecove
 --- 
 
 ## Welcome to Twin Villas Airbnb Info

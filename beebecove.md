@@ -1,6 +1,7 @@
 ---
-title: Beebe Cove BnB
-filename: beebecove.md
+layout: page
+title: "Beebe Cove BnB"
+permalink: /beebecove/
 --- 
 
 ## Welcome to Twin Villas Airbnb Info

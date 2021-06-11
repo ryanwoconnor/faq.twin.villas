@@ -1,6 +1,5 @@
 ---
-layout: page
-title: "Beebe Cove BnB"
+title: Beebe Cove BnB
 permalink: /beebecove
 --- 
 

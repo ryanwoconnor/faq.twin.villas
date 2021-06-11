@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Cozy Cottage"
-permalink: /cozycottage/
+permalink: /cozycottage
 ---
 
 ## Welcome to Twin Villas Airbnb Info

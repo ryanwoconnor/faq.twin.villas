@@ -6,7 +6,8 @@ permalink: /carriagehouse
 
 ## Welcome to Twin Villas Airbnb Info
 
-(Home)[https://faq.twin.villas]
+{% include navigation.html %}
+
 * * * * *
 
 ### Carriage House

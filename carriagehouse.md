@@ -48,6 +48,5 @@ When you enter the driveway, please follow the driveway to the left and head str
 
 * * * * *
 
-## Support or Contact
+{% include support.html %}
 
-If you have any questions regarding this page, or about the listing you are staying in, please contact us ASAP via Airbnb. We really strive to give guests a 5 ⭐️ experience and are looking forward to hosting you! 

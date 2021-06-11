@@ -15,7 +15,5 @@ Here you will find general information about our Airbnb listings. We are continu
 
 * * * * *
 
+{% include support.html %}
 
-## Support or Contact
-
-If you have any questions regarding this page, or about the listing you are staying in, please contact us ASAP via Airbnb. We really strive to give guests a 5 ⭐️ experience and are looking forward to hosting you! 

@@ -44,7 +44,5 @@ Please limit the number of vehicles to no more than 2 cars. If you do need to br
 3. There is someone outside mowing the lawn. Do I need to be alarmed?
     * You do not need to be worried. Changes are it is your host stopping by and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause. 
 
+{% include support.html %}
 
-## Support or Contact
-
-If you have any questions regarding this page, or about the listing you are staying in, please contact us ASAP via Airbnb. We really strive to give guests a 5 ⭐️ experience and are looking forward to hosting you! 

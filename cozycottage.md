@@ -38,7 +38,5 @@ More information on Trash and Recycling can be found [at this link.](https://www
 1. Am I allowed to use the beach?
     * **Yes!** I pay yearly for dues for the Mago Point Beach Association. You are allowed to use this beach and dock. Please be friendly to the neighbors and other beachgoers. 
 
+{% include support.html %}
 
-## Support or Contact
-
-If you have any questions regarding this page, or about the listing you are staying in, please contact us ASAP via Airbnb. We really strive to give guests a 5 ⭐️ experience and are looking forward to hosting you! 

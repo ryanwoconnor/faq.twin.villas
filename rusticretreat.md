@@ -25,6 +25,10 @@ We have two air conditioners in the apartment. They are located in the bedroom a
 
 Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
 
+### Pool Rules
+
+Pool rules can be [found at this link.](/rusticretreat/poolrules)
+
 ### Parking
 
 When you enter the driveway, please pull straight in and park in front of the Guest Parking sign that is visible straight ahead. Please limit the number of vehicles to no more than 2 cars. We unfortunately do not have the space to host many cars for this specific listing. 

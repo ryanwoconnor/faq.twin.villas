@@ -4,15 +4,7 @@ title: Beebe Cove BnB
 permalink: /beebecove
 --- 
 
-## Welcome to Twin Villas Airbnb Info
-
-### Table of Contents
-1. [Beebe Cove BnB](/beebecove)
-2. [Rustic Retreat](/rusticretreat)
-3. [Carriage House](/carriagehouse)
-4. [Cozy Cottage on the River](/cozycottage)
-
-* * * * *
+{% include navigation.html %}
 
 ### Beebe Cove BnB
 

@@ -4,11 +4,7 @@ title: "Carriage House Apartment"
 permalink: /carriagehouse
 ---
 
-## Welcome to Twin Villas Airbnb Info
-
 {% include navigation.html %}
-
-* * * * *
 
 ### Carriage House
 

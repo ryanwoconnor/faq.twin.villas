@@ -37,5 +37,8 @@ When you enter the driveway, please pull straight in and park in front of the Gu
 2. Will I have the entire house to myself?
     * As described in the listing, this is a separate upstairs apartment overlooking multiple beautiful farms in Stonington, CT.  The apartment is zoned separately from the main floor of the house where I live. There is a separate entrance and set of stairs up to the private apartment. There are no shared living spaces. You will have your own kitchen, living room, bathroom, bedrooms, and deck (including a propane fire table). That being said, you do have access to the entire outside property (3.5 acres) with this reservation and at times these spaces are shared with myself or other friends/guests. 
 
+3. Can I use the pool?
+    * Absolutely you are allowed to use the pool. Our list of pool rules can be [found here.](/rusticretreat/poolrules) 
+
 {% include support.html %}
 

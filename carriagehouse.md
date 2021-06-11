@@ -46,6 +46,9 @@ When you enter the driveway, please follow the driveway to the left and head str
 4. There is someone outside by the pool. Do I need to be alarmed?
     * As described in the listing when you booked, the pool area is a shared space. As a result, you will likely encounter people out there. There should not be any parties, loud music, drinking, smoking, or other dangerous activities taking place by the pool. All guests should be following the posted pool rules. If at any time you are concerned for your safety, or the safety of others, please contact your host immediately. 
 
+5. Can I use the pool?
+    * Absolutely you are allowed to use the pool. Our list of pool rules can be [found here.](/carriagehouse/poolrules)
+
 * * * * *
 
 {% include support.html %}

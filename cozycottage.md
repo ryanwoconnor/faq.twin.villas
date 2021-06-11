@@ -6,19 +6,19 @@ permalink: /cozycottage
 
 {% include navigation.html %}
 
-### Cozy Cottage on the River
+## Cozy Cottage on the River
 
 Information for our Airbnb Listing in Waterford, CT found [at this link.](https://www.airbnb.com/h/cozycottagect)
 
-#### Thermostat Information
+### Thermostat Information
 
 We have one thermostat in this house. The thermostat is located in the living room. The heat is limited to no more than 72 degrees. We have oil based heat in this house. 
 
-#### Air Conditioning
+### Air Conditioning
 
 We have one air conditioner in the house. It is located in the dining room. This unit is not controlled by the thermostats on the walls. You need to utilize the buttons on the air conditioner to control the unit. We typically install the Air conditioner in Mid-May when it starts to get hot out. 
 
-#### Trash and Recycling
+### Trash and Recycling
 
 🔵  Blue Bin is for Trash
 
@@ -28,12 +28,12 @@ Trash can be placed by the curb every Wednesday. Every other Wednesday is Trash 
 
 More information on Trash and Recycling can be found [at this link.](https://www.waterfordct.org/public-works/pages/recycling-single-stream)
 
-#### Parking
+### Parking
 
 **Please park in the driveway and refrain from parking in the street whenever possible**. Please limit the number of vehicles to no more than 2 cars. If you do need to bring additional cars please let us know. 
 
 
-#### FAQ
+### FAQ
 
 1. Am I allowed to use the beach?
     * **Yes!** I pay yearly for dues for the Mago Point Beach Association. You are allowed to use this beach and dock. Please be friendly to the neighbors and other beachgoers. 

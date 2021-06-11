@@ -6,20 +6,20 @@ permalink: /carriagehouse
 
 {% include navigation.html %}
 
-### Carriage House
+## Carriage House
 
 Information for our Airbnb Listing in Stonington, CT found [at this link.](https://www.airbnb.com/h/carriagehousestonington)
 
 
-#### Thermostat Information
+### Thermostat Information
 
 We have three thermostats in this apartment. The apartment is equipped with electric heat. The thermostats are located in the bedroom, the living room, and in the bathroom inside the cabinet above the toilet. 
 
-#### Air Conditioning
+### Air Conditioning
 
 We have one air conditioner in the apartment. It is located in the kitchen. This unit is not controlled by the thermostats on the walls. You need to utilize the remote control to control both of these. The remote does have additional controls that you'll find by sliding down the cover of the remote. 
 
-#### Trash and Recycling
+### Trash and Recycling
 
 🟢  Green Bin is for Recycling
 
@@ -27,11 +27,11 @@ We have one air conditioner in the apartment. It is located in the kitchen. This
 
 Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
 
-#### Parking
+### Parking
 
 When you enter the driveway, please follow the driveway to the left and head straight back. You'll see a Guest Parking sign that is visible straight ahead. Please limit the number of vehicles to no more than 2 cars. We unfortunately do not have the space to host many cars for this specific listing. 
 
-#### FAQ
+### FAQ
 
 1. How do I turn on the overhead fan?
     * You should see a circle shaped light switch behind the lamp next to the couch. This switch controls the overhead fan. Note that it does not control the speed of the fan. The fan is either on or off. 

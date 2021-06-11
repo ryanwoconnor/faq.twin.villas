@@ -2,3 +2,5 @@
 google_analytics: UA-198988626-1
 title: Twin Villas FAQ
 theme: jekyll-theme-leap-day
+github:
+  is_project_page: false

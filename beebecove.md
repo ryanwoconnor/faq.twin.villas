@@ -2,6 +2,8 @@
 title: Beebe Cove BnB
 layout: template
 filename: beebecove.md
+theme: jekyll-theme-leap-day
+
 --- 
 
 ## Welcome to Twin Villas Airbnb Info

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Beebe Cove BnB
 permalink: /beebecove
 --- 

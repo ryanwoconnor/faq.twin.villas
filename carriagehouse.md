@@ -10,6 +10,9 @@ permalink: /carriagehouse
 
 Information for our Airbnb Listing in Stonington, CT found [at this link.](https://www.airbnb.com/h/carriagehousestonington)
 
+### Television
+
+We have a Roku TV at this house, however we do not have Cable TV. We recommend bringing your favorite subscription service username and passwords to login. We have common apps on the TV such as Hulu, Netflix, HBO Max, and more. 
 
 ### Thermostat Information
 

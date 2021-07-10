@@ -45,6 +45,8 @@ When you enter the driveway, please pull straight in and park in front of the Gu
 3. Can I use the pool?
     * Absolutely you are allowed to use the pool. Our list of pool rules can be [found here.](/rusticretreat/poolrules) 
 
-{% include support.html %}
 
 {% include nightlights.html %}
+
+{% include support.html %}
+

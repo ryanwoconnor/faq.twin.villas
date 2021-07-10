@@ -10,6 +10,15 @@ permalink: /rusticretreat
 
 Information for our Airbnb Listing in Stonington, CT found [at this link.](https://www.airbnb.com/h/rusticretreatct)
 
+### Entrance to the house
+
+The entrance to the Airbnb and parking are located in image shown below. 
+<img width="50%" height="50%" src="assets/images/parking_entrance.jpeg"/>
+
+### Parking
+
+When you enter the driveway, please pull straight in and park in front of the Guest Parking sign that is visible straight ahead. Please limit the number of vehicles to no more than 2 cars. We unfortunately do not have the space to host many cars for this specific listing. 
+
 ### Thermostat Information
 
 We have three thermostats in this apartment. The apartment is equipped with electric heat. The thermostats are located in each bedroom, and one just outside the bathroom door. 
@@ -29,10 +38,6 @@ Please place all trash and recycling in the appropriate bin before you leave. **
 ### Pool Rules
 
 Pool rules can be [found at this link.](/rusticretreat/poolrules)
-
-### Parking
-
-When you enter the driveway, please pull straight in and park in front of the Guest Parking sign that is visible straight ahead. Please limit the number of vehicles to no more than 2 cars. We unfortunately do not have the space to host many cars for this specific listing. 
 
 ### FAQ
 

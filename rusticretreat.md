@@ -38,6 +38,8 @@ We have two air conditioners in the apartment. They are located in the bedroom a
 
 Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
 
+{% include grill.html %}
+
 ### Pool Rules
 
 Pool rules can be [found at this link.](/rusticretreat/poolrules)

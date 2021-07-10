@@ -20,6 +20,7 @@ We have two air conditioners in the apartment. They are located in the bedroom a
 
 ### Trash and Recycling
 
+🟢  Green Bin is for Recycling
 
 ⚫  Metal Bin out front is for trash
 

@@ -46,3 +46,4 @@ When you enter the driveway, please pull straight in and park in front of the Gu
 
 {% include support.html %}
 
+{% include nightlights.html %}

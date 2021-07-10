@@ -32,6 +32,8 @@ Recycling Pickup is every Thursday Morning. Trash Pickup is on Monday Morning an
 
 Please limit the number of vehicles to no more than 2 cars. If you do need to bring additional cars please let us know. 
 
+No cars are allowed to be left parked in the driveway, or on the street in front of the house, after checkout time. 
+
 ### FAQ
 
 1. How do I turn on the Stove?

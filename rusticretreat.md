@@ -13,11 +13,14 @@ Information for our Airbnb Listing in Stonington, CT found [at this link.](https
 ### Entrance to the Airbnb
 
 The entrance to the Airbnb and parking are located in image shown below. 
+
 <img width="50%" height="50%" src="assets/images/parking_entrance.jpeg"/>
 
 ### Parking
 
 When you enter the driveway, please pull straight in and park in front of the Guest Parking sign that is visible straight ahead. Please limit the number of vehicles to no more than 2 cars. We unfortunately do not have the space to host many cars for this specific listing. 
+
+No cars are allowed to be left parked in the driveway, or on the street in front of the house, after checkout time. 
 
 ### Thermostat Information
 

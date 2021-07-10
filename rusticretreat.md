@@ -12,7 +12,7 @@ Information for our Airbnb Listing in Stonington, CT found [at this link.](https
 
 ### Entrance to the Airbnb
 
-The entrance to the Airbnb and parking are located in image shown below. 
+The entrance to the Airbnb and parking are located in the image below. 
 
 <img width="50%" height="50%" src="assets/images/parking_entrance.jpeg"/>
 

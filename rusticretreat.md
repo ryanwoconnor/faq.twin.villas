@@ -10,7 +10,7 @@ permalink: /rusticretreat
 
 Information for our Airbnb Listing in Stonington, CT found [at this link.](https://www.airbnb.com/h/rusticretreatct)
 
-### Entrance to the house
+### Entrance to the Airbnb
 
 The entrance to the Airbnb and parking are located in image shown below. 
 <img width="50%" height="50%" src="assets/images/parking_entrance.jpeg"/>

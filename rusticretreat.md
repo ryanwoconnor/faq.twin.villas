@@ -38,10 +38,6 @@ We have two air conditioners in the apartment. They are located in the bedroom a
 
 Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
 
-{% include grill.html %}
-
-{% include noise.html %}
-
 ### Pool Rules
 
 Pool rules can be [found at this link.](/rusticretreat/poolrules)
@@ -57,6 +53,9 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 3. Can I use the pool?
     * Absolutely you are allowed to use the pool. Our list of pool rules can be [found here.](/rusticretreat/poolrules) 
 
+{% include grill.html %}
+
+{% include noise.html %}
 
 {% include nightlights.html %}
 

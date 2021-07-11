@@ -14,10 +14,6 @@ Information for our Airbnb Listing in Mystic, CT found [at this link.](https://w
 
 We have three thermostats in this house. They are located in the kitchen, the downstairs bedroom, and the upstairs bedroom. The heat is limited to no more than 72 degrees. You'll also notice that there may be noise coming from the door next to the downstairs bedroom. This is the room where the boiler is located and it does make some noise when it is burning oil. 
 
-{% include grill.html %}
-
-{% include noise.html %}
-
 ### Air Conditioning
 
 We have two air conditioners in the house. They are located in each bedroom. These units are not controlled by the thermostats on the walls. 
@@ -49,6 +45,10 @@ No cars are allowed to be left parked in the driveway, or on the street in front
 
 3. There is someone outside mowing the lawn. Do I need to be alarmed?
     * You do not need to be worried. Changes are it is your host stopping by and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause. 
+
+{% include grill.html %}
+
+{% include noise.html %}
 
 {% include support.html %}
 

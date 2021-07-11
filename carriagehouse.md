@@ -43,7 +43,6 @@ When you enter the driveway, please follow the driveway to the left and head str
 1. How do I turn on the overhead fan?
     * You should see a circle shaped light switch behind the lamp next to the couch. This switch controls the overhead fan. Note that it does not control the speed of the fan. The fan is either on or off. 
 
-
 2. Is there cable TV?
     * We do not have Cable TV at this listing. There are plenty of streaming apps available on the Roku TV in the living room. 
 

@@ -44,7 +44,13 @@ No cars are allowed to be left parked in the driveway, or on the street in front
     * You do not need to feed the fish! They are fed regularly with pellets. When they are not fed pellets, they still enjoy feeding off of organic matter. 
 
 3. There is someone outside mowing the lawn. Do I need to be alarmed?
-    * You do not need to be worried. Changes are it is your host stopping by and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause. 
+    * You do not need to be worried. Chances are it is your host stopping by and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause. 
+
+4. My checkout is at 11AM, can I leave my car parked outside the driveway on the road?
+    * No you may not do this. After checkout, you will need to remove your vehicle entirely from the property - including street parking in front of the house. 
+
+5. Can I have a late checkout or early check-in?
+	* No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans. 
 
 {% include grill.html %}
 

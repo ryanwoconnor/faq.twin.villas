@@ -20,6 +20,8 @@ We have three thermostats in this apartment. The apartment is equipped with elec
 
 {% include grill.html %}
 
+{% include noise.html %}
+
 ### Air Conditioning
 
 We have one air conditioner in the apartment. It is located in the kitchen. This unit is not controlled by the thermostats on the walls. You need to utilize the remote control to control both of these. The remote does have additional controls that you'll find by sliding down the cover of the remote. 

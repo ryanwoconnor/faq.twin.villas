@@ -16,6 +16,8 @@ We have three thermostats in this house. They are located in the kitchen, the do
 
 {% include grill.html %}
 
+{% include noise.html %}
+
 ### Air Conditioning
 
 We have two air conditioners in the house. They are located in each bedroom. These units are not controlled by the thermostats on the walls. 

@@ -40,6 +40,8 @@ Please place all trash and recycling in the appropriate bin before you leave. **
 
 {% include grill.html %}
 
+{% include noise.html %}
+
 ### Pool Rules
 
 Pool rules can be [found at this link.](/rusticretreat/poolrules)

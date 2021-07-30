@@ -64,5 +64,7 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 
 {% include smoking.html %}
 
+{% include tp.html %}
+
 {% include support.html %}
 

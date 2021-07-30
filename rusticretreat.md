@@ -62,5 +62,7 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 
 {% include nightlights.html %}
 
+{% include smoking.html %}
+
 {% include support.html %}
 

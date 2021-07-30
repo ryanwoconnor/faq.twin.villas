@@ -59,5 +59,7 @@ When you enter the driveway, please follow the driveway to the left and head str
 
 {% include noise.html %}
 
+{% include smoking.html %}
+
 {% include support.html %}
 

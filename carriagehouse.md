@@ -56,7 +56,7 @@ When you enter the driveway, please follow the driveway to the left and head str
     * Absolutely you are allowed to use the pool. Our list of pool rules can be [found here.](/carriagehouse/poolrules)
 
 6. Can I have a late checkout or early check-in?
-        * No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans.
+   * No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans.
 
 {% include grill.html %}
 
@@ -65,6 +65,8 @@ When you enter the driveway, please follow the driveway to the left and head str
 {% include smoking.html %}
 
 {% include tp.html %}
+
+{% include packages.html %}
 
 {% include support.html %}
 

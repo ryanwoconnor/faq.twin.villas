@@ -47,13 +47,16 @@ When you enter the driveway, please follow the driveway to the left and head str
     * We do not have Cable TV at this listing. There are plenty of streaming apps available on the Roku TV in the living room. 
 
 3. There is someone outside mowing the lawn. Do I need to be alarmed?
-    * You do not need to be worried. Changes are it is your host stopping by and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause. 
+    * You do not need to be worried. Chances are it is your host outside mowing the lawn and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause. 
 
 4. There is someone outside by the pool. Do I need to be alarmed?
     * As described in the listing when you booked, the pool area is a shared space. As a result, you will likely encounter people out there. There should not be any parties, loud music, drinking, smoking, or other dangerous activities taking place by the pool. All guests should be following the posted pool rules. If at any time you are concerned for your safety, or the safety of others, please contact your host immediately. 
 
 5. Can I use the pool?
     * Absolutely you are allowed to use the pool. Our list of pool rules can be [found here.](/carriagehouse/poolrules)
+
+6. Can I have a late checkout or early check-in?
+        * No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans.
 
 {% include grill.html %}
 

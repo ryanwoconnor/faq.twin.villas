@@ -68,5 +68,9 @@ When you enter the driveway, please follow the driveway to the left and head str
 
 {% include packages.html %}
 
+{% include purchasing.html %}
+
+{% include decorating.html %}
+
 {% include support.html %}
 

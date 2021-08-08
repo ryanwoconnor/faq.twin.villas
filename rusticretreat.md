@@ -68,5 +68,9 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 
 {% include tp.html %}
 
+{% include purchasing.html %}
+
+{% include decorating.html %}
+
 {% include support.html %}
 

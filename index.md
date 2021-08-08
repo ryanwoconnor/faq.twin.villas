@@ -11,7 +11,6 @@ Here you will find general information about our Airbnb listings. We are continu
 1. [Beebe Cove BnB](/beebecove)
 2. [Rustic Retreat](/rusticretreat)
 3. [Carriage House](/carriagehouse)
-[//]: # (4. [Cozy Cottage on the River](/cozycottage))
 * * * * *
 
 {% include support.html %}

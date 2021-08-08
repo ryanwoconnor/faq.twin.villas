@@ -28,7 +28,7 @@ We have one air conditioner in the apartment. It is located in the kitchen. This
 
 ⚫  Black Bin is for trash
 
-Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
+No trash should be brought to the premises when you arrive. Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
 
 ### Pool Rules
 

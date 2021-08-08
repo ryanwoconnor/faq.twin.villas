@@ -24,6 +24,8 @@ We have two air conditioners in the house. They are located in each bedroom. The
 
 ⚫  Grey Bin is for trash
 
+No trash should be brought to the premises when you arrive. 
+
 #### Trash and Recycling Schedule
 
 Recycling Pickup is every Thursday Morning. Trash Pickup is on Monday Morning and Thursday Morning. If you are staying during one of these days, please take the appropriate bins to the curb. **Trash must be bagged**

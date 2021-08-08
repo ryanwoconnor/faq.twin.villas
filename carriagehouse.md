@@ -56,7 +56,14 @@ When you enter the driveway, please follow the driveway to the left and head str
     * Absolutely you are allowed to use the pool. Our list of pool rules can be [found here.](/carriagehouse/poolrules)
 
 6. Can I have a late checkout or early check-in?
-   * No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans.
+    * No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans.
+
+7. Is there any other cool history about the property?
+    * We are directly adjacent to the estate of [Sergio Franchi](https://en.wikipedia.org/wiki/Sergio_Franchi). This is the reason for the name Sergio Franchi Drive. 
+
+8. Can I walk down the road next door?
+    * You are more than welcome to take a stroll down Sergio Franchi Drive. You will notice that the road comes to a natural point where the stonewalls end. This is where the public
+ road ends, and the private estate begins. Please do not go onto the private estate. 
 
 {% include grill.html %}
 

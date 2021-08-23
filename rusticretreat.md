@@ -65,6 +65,9 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 7. Can I walk down the road next door?
     * You are more than welcome to take a stroll down Sergio Franchi Drive. You will notice that the road comes to a natural point where the stonewalls end. This is where the public road ends, and the private estate begins. Please do not go onto the private estate. 
 
+8. If I checkout early, can my trip price be reduced?
+    * No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy. 
+
 {% include grill.html %}
 
 {% include noise.html %}
@@ -80,6 +83,8 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 {% include purchasing.html %}
 
 {% include decorating.html %}
+
+{% include cancellation.html %}
 
 {% include support.html %}
 

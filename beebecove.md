@@ -52,7 +52,10 @@ No cars are allowed to be left parked in the driveway, or on the street in front
     * No you may not do this. After checkout, you will need to remove your vehicle entirely from the property - including street parking in front of the house. 
 
 5. Can I have a late checkout or early check-in?
-	* No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans. 
+    * No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans. 
+
+6. If I checkout early, can my trip price be reduced?
+    * No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy.   
 
 {% include grill.html %}
 
@@ -67,6 +70,8 @@ No cars are allowed to be left parked in the driveway, or on the street in front
 {% include purchasing.html %}
 
 {% include decorating.html %}
+
+{% include cancellation.html %}
 
 {% include support.html %}
 

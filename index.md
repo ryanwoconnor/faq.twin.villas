@@ -14,4 +14,3 @@ Here you will find general information about our Airbnb listings. We are continu
 * * * * *
 
 {% include support.html %}
-

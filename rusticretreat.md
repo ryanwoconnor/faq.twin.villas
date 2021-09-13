@@ -89,4 +89,3 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 {% include cancellation.html %}
 
 {% include support.html %}
-

@@ -68,6 +68,8 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 8. If I checkout early, can my trip price be reduced?
     * No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy. 
 
+{% include firetable.html %}
+
 {% include grill.html %}
 
 {% include noise.html %}

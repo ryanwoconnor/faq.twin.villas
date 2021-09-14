@@ -59,6 +59,8 @@ No cars are allowed to be left parked in the driveway, or on the street in front
 
 {% include localrecommendations.html %}
 
+<script>window.wanderlogEmbedKeys=['stllhdmygz'];window.wanderlogEmbedOptions={"alwaysShowRouteLines":true,"omitExternalLinks":false,"omitWebsitePhone":false,"version":2};</script><div id="Wanderlog__mapEmbed_stllhdmygz" style="display: block; width: 100%"><div style="font-size: smaller; margin-bottom: 8px">Places mapped by <a href="https://wanderlog.com/" target="_blank" rel="noopener">Wanderlog, an itinerary planner</a></div></div><script src="https://wanderlog.com/embed.js" async defer></script>
+
 {% include grill.html %}
 
 {% include noise.html %}

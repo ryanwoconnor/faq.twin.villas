@@ -68,6 +68,11 @@ When you enter the driveway, please follow the driveway to the left and head str
 9. If I checkout early, can my trip price be reduced?
     * No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy. 
 
+10. Is the pool heated?
+    * Unfortunately, no the pool is not heated. 
+
+{% include localrecommendations.html %}
+
 {% include grill.html %}
 
 {% include noise.html %}

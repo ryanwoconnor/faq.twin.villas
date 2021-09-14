@@ -57,6 +57,8 @@ No cars are allowed to be left parked in the driveway, or on the street in front
 6. If I checkout early, can my trip price be reduced?
     * No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy.   
 
+{% include localrecommendations.html %}
+
 {% include grill.html %}
 
 {% include noise.html %}

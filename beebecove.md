@@ -16,7 +16,7 @@ We have three thermostats in this house. They are located in the kitchen, the do
 
 ### Air Conditioning
 
-We have two air conditioners in the house. They are located in each bedroom. These units are not controlled by the thermostats on the walls. 
+We have two air conditioners in the house. They are located in each bedroom. These units are not controlled by the thermostats on the walls. We typically take these out when the weather starts to get cold, and put them in when the weather starts to get warm. Please do not attempt to install these on your own, or remove them from windows on your own. If you need to do either, please give your house a call and we we will come and take care of it.  
 
 ### Trash and Recycling
 

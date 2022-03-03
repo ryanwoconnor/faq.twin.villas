@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Beebe Cove BnB
-permalink: /beebecove
+permalink: /beebebnb
 --- 
 
 {% include navigation.html %}

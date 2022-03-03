@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Carriage House Apartment"
-permalink: /carriagehouse
+permalink: /carriagehousestonington
 ---
 
 {% include navigation.html %}

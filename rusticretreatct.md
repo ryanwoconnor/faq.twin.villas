@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Rustic Retreat"
-permalink: /rusticretreat
+permalink: /rusticretreatct
 ---
 
 {% include navigation.html %}

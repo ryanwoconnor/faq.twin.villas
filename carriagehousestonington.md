@@ -81,6 +81,8 @@ When you enter the driveway, please follow the driveway to the left and head str
 
 {% include tp.html %}
 
+{% include lostandfound.html %}
+
 {% include packages.html %}
 
 {% include purchasing.html %}

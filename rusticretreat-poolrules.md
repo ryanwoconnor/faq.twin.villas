@@ -8,7 +8,6 @@ permalink: /rusticretreat/poolrules
 
 ## Rustic Retreat - Pool Rules
 
-Information for the pool at our Airbnb Listing in Stonington, CT found [at this link.](https://www.airbnb.com/h/rusticretreatct)
+Information for the pool at our listing in Stonington, CT found [at this link.](https://www.airbnb.com/h/rusticretreatct)
 
 {% include poolrules.html %}
-

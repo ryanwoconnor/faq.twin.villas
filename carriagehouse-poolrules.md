@@ -8,7 +8,6 @@ permalink: /carriagehouse/poolrules
 
 ## Carriage House - Pool Rules
 
-Information for our Airbnb Listing in Stonington, CT found [at this link.](https://www.airbnb.com/h/carriagehousestonington)
+Information for our listing in Stonington, CT found [at this link.](https://www.airbnb.com/h/carriagehousestonington)
 
 {% include poolrules.html %}
-

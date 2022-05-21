@@ -44,7 +44,11 @@ We have two air conditioners in the apartment. They are located in the bedroom a
 
 No trash should be brought to the premises when you arrive. Please also place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
 
-### Pool Rules
+### Pool Information
+
+Pool is open between Memorial Day and Labor Day. 
+
+#### Pool Rules
 
 Pool rules can be [found at this link.](/rusticretreat/poolrules)
 

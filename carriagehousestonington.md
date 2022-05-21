@@ -30,7 +30,11 @@ We have one air conditioner in the apartment. It is located in the kitchen. This
 
 No trash should be brought to the premises when you arrive. Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
 
-### Pool Rules
+### Pool Information
+
+Pool is open between Memorial Day and Labor Day. 
+
+#### Pool Rules
 
 Pool rules can be [found at this link.](/carriagehouse/poolrules)
 

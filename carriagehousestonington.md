@@ -36,7 +36,9 @@ Pool rules can be [found at this link.](/carriagehouse/poolrules)
 
 ### Parking
 
-When you enter the driveway, please follow the driveway to the left and head straight back. You'll see a Guest Parking sign that is visible straight ahead. Please limit the number of vehicles to no more than 2 cars. We unfortunately do not have the space to host many cars for this specific listing.
+When you enter the driveway, please follow the driveway to the left and head straight back. You'll see a Guest Parking sign that is visible straight ahead.
+
+{% include parking.html %}
 
 ### FAQ
 

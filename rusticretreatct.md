@@ -18,9 +18,9 @@ The entrance to the listing and parking are located in the image below.
 
 ### Parking
 
-When you enter the driveway, please pull straight in and park in front of the Guest Parking sign that is visible straight ahead. Please limit the number of vehicles to no more than 2 cars. We unfortunately do not have the space to host many cars for this specific listing.
+When you enter the driveway, please pull straight in and park in front of the Guest Parking sign that is visible straight ahead.
 
-No cars are allowed to be left parked in the driveway, or on the street in front of the house, after checkout time.
+{% include parking.html %}
 
 ### Thermostat Information
 

@@ -24,7 +24,7 @@ When you enter the driveway, please pull straight in and park in front of the Gu
 
 ### Thermostat Information
 
-We have three thermostats in this apartment. The apartment is equipped with electric heat. The thermostats are located in each bedroom, and one just outside the bathroom door. Photos of them are located here:
+We have three thermostats in this apartment. The thermostats shown below are for HEAT only. The apartment is equipped with electric heat. The thermostats are located in each bedroom, and one just outside the bathroom door. Photos of them are located here:
 
 <img width="50%" height="50%" src="assets/images/rr_therm1.jpeg"/>
 <br/>
@@ -34,7 +34,13 @@ We have three thermostats in this apartment. The apartment is equipped with elec
 
 ### Air Conditioning
 
-We have two air conditioners in the apartment. They are located in the bedroom and in the kitchen. These units are not controlled by the thermostats on the walls. You need to utilize the remote control to control both of these. The remote does have additional controls that you'll find by sliding down the cover of the remote.
+We have two air conditioners in the apartment. They are located in the bedroom and in the kitchen. These units are <strong>not</strong> controlled by the thermostats on the walls. You need to utilize the remote control to control both of these. They are located on the dresser in the master bedroom, and ontop of the microwave.
+
+Instructions for using them can be found below.
+
+<a href="assets/images/mysa_ac.jpeg"><img width="50%" height="50%" src="assets/images/mysa_ac.jpeg"/></a>
+
+<a href="assets/images/mysa_ac1.jpeg"><img width="50%" height="50%" src="assets/images/mysa_ac1.jpeg"/></a>
 
 ### Trash and Recycling
 

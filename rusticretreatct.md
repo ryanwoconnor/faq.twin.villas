@@ -47,9 +47,9 @@ We have two air conditioners in the apartment. They are located in the bedroom a
 
 Instructions for using them can be found below.
 
-<a href="assets/images/mysa_ac.jpeg"><img width="50%" height="50%" src="assets/images/mysa_ac.jpeg"/></a>
+<a href="assets/images/mysa_ac.png"><img width="50%" height="50%" src="assets/images/mysa_ac.png"/></a>
 
-<a href="assets/images/mysa_ac1.jpeg"><img width="50%" height="50%" src="assets/images/mysa_ac1.jpeg"/></a>
+<a href="assets/images/mysa_ac1.png"><img width="50%" height="50%" src="assets/images/mysa_ac1.png"/></a>
 
 ### Trash and Recycling
 

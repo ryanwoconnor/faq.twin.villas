@@ -104,6 +104,8 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 
 {% include grill.html %}
 
+{% include propane.html %}
+
 {% include noise.html %}
 
 {% include pooltowels.html %}

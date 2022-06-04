@@ -95,6 +95,8 @@ If you have more than 2 vehicles, you are welcome to park an additional vehicle 
 
 {% include grill.html %}
 
+{% include propane.html %}
+
 {% include noise.html %}
 
 {% include pooltowels.html %}

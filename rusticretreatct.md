@@ -33,7 +33,11 @@ If you have more than 2 vehicles, you are welcome to park an additional vehicle 
 
 ### Thermostat Information
 
-We have three thermostats in this apartment. The thermostats shown below are for HEAT only. The apartment is equipped with electric heat. The thermostats are located in each bedroom, and one just outside the bathroom door. Photos of them are located here:
+We have five thermostats in this apartment.
+
+#### Heat
+
+The thermostats shown below are for **HEAT** only. The apartment is equipped with electric heat. The thermostats are located in each bedroom, and one just outside the bathroom door. Photos of them are located here:
 
 <img width="50%" height="50%" src="assets/images/rr_therm1.jpeg"/>
 <br/>
@@ -41,15 +45,23 @@ We have three thermostats in this apartment. The thermostats shown below are for
 <br/>
 <img width="50%" height="50%" src="assets/images/rr_therm3.jpeg"/>
 
-### Air Conditioning
+#### Air Conditioning
 
-We have two air conditioners in the apartment. They are located in the bedroom and in the kitchen. These units are <strong>not</strong> controlled by the thermostats on the walls. You need to utilize the remote control to control both of these. They are located on the dresser in the master bedroom, and ontop of the microwave.
+We have two air conditioners in the apartment. They are located in the bedroom and in the kitchen. These are not central air, they are referred to as mini splits. These units are **not** controlled by the thermostats on the walls. You need to utilize the remote control to control each of these. Remotes are labeled and images of them are below.
 
 Instructions for using them can be found below.
 
-<a href="assets/images/mysa_ac.png"><img width="50%" height="50%" src="assets/images/mysa_ac.png"/></a>
+##### Bedroom Air Conditioner Remote
 
-<a href="assets/images/mysa_ac1.png"><img width="50%" height="50%" src="assets/images/mysa_ac1.png"/></a>
+<a href="assets/images/bedroom_remote_1.jpeg"><img width="50%" height="50%" src="assets/images/bedroom_remote_1.jpeg"/></a>
+
+<a href="assets/images/bedroom_remote_2.jpeg"><img width="50%" height="50%" src="assets/images/bedroom_remote_2.jpeg"/></a>
+
+##### Kitchen Air Conditioner Remote
+
+<a href="assets/images/main_remote_1.jpeg"><img width="50%" height="50%" src="assets/images/main_remote_1.jpeg"/></a>
+
+<a href="assets/images/main_remote_2.jpeg"><img width="50%" height="50%" src="assets/images/main_remote_2.jpeg"/></a>
 
 ### Trash and Recycling
 

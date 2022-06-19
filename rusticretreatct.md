@@ -49,8 +49,6 @@ The thermostats shown below are for **HEAT** only. The apartment is equipped wit
 
 We have two air conditioners in the apartment. They are located in the bedroom and in the kitchen. These are not central air, they are referred to as mini splits. These units are **not** controlled by the thermostats on the walls. You need to utilize the remote control to control each of these. Remotes are labeled and images of them are below.
 
-Instructions for using them can be found below.
-
 ##### Bedroom Air Conditioner Remote
 
 <a href="assets/images/bedroom_remote_1.jpeg"><img width="50%" height="50%" src="assets/images/bedroom_remote_1.jpeg"/></a>

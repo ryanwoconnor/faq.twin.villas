@@ -129,7 +129,7 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
     
 11. Where is the iron?
     
-   - The iron is located in the bedroom closet.
+    - The iron is located in the bedroom closet.
     
 12. Can I drop-off my car before check-in time?
     

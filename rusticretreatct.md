@@ -111,9 +111,21 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 
    - Unfortunately, no the pool is not heated.
 
-10. Where is the iron?
+10. Will the pool be open when I arrive?
 
-- The iron is located in the bedroom closet.
+   - Unless otherwise noted, the pool is **only** guaranteed to be open between Memorial Day and Labor day. The reason being: we live in New England and it's impossible to keep an outdoor pool open year round. This means if you are planning a trip to arrive on September 10th, the pool may no longer be open. It's possible that we'll keep the pool open a bit longer than Labor Day, we just can't guarantee it.
+
+11. Where is the iron?
+
+   - The iron is located in the bedroom closet.
+
+11. Can I drop-off my car before check-in time?
+
+   - No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
+
+12. Can I leave my car after I checkout?
+
+   - No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
 
 {% include localrecommendations.html %}
 

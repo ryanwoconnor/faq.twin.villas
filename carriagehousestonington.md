@@ -53,6 +53,12 @@ If you have more than 2 vehicles, you are welcome to park an additional vehicle 
 - You may not stay past your check out time to use the pool.
 - You may not arrive before your check-in time to use the pool.
 
+### Closing the back door
+
+The back door to the house is a standard patio door. Specifically, it is an [Andersen 400 Series Patio Door](https://www.andersenwindows.com/windows-and-doors/doors/french-doors-hinged-patio-doors/400-series-frenchwood-hinged-patio-door/#/learn).
+
+{% include patiodoor.html %}
+
 ### FAQ
 
 1. How do I turn on the overhead fan?
@@ -94,15 +100,15 @@ If you have more than 2 vehicles, you are welcome to park an additional vehicle 
 
 10. Is the pool heated?
 
-- Unfortunately, no the pool is not heated.
+   - Unfortunately, no the pool is not heated.
 
 11. Can I drop-off my car before check-in time?
 
-- No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
+   - No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
 
 12. Can I leave my car after I checkout?
 
-- No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
+   - No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
 
 {% include localrecommendations.html %}
 

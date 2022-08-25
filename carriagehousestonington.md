@@ -91,8 +91,7 @@ The back door to the house is a standard patio door. Specifically, it is an [And
 
 8. Can I walk down the road next door?
 
-   - You are more than welcome to take a stroll down Sergio Franchi Drive. You will notice that the road comes to a natural point where the stonewalls end. This is where the public
-     road ends, and the private estate begins. Please do not go onto the private estate.
+   - You are more than welcome to take a stroll down Sergio Franchi Drive. You will notice that the road comes to a natural point where the stonewalls end. This is where the public road ends, and the private estate begins. Please do not go onto the private estate.
 
 9. If I checkout early, can my trip price be reduced?
 

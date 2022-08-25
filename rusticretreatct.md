@@ -31,6 +31,8 @@ If you have more than 2 vehicles, you are welcome to park an additional vehicle 
 
 ### Arriving Early to the Property
 
+Please do not arrive to the property until check-in time. We mean no disrespect to you, or your plans. 
+
 - No cars are allowed to be left parked in the driveway, or on the street in front of the house either before check-in time, or after check out time.
 - You may not stay past your check out time to use the pool.
 - You may not arrive before your check-in time to use the pool.

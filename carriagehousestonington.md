@@ -36,9 +36,9 @@ Pool rules can be [found at this link.](/carriagehouse/poolrules)
 
 ### Parking
 
-When you enter the driveway, please follow the driveway to the left and head straight back. You'll see a Guest Parking sign that is visible straight ahead.
+When you enter the driveway, please follow the driveway to the left and head straight back. You'll see a Guest Parking sign that is visible straight ahead. **Please pull all the way up. **
 
-We currently can only accomodate **two cars** at this Airbnb at a time. This is for multiple reasons:
+We can only accomodate **two cars** at this Airbnb at a time. This is for multiple reasons:
 
 - Unfortunately, due to prior guests throwing parties at our listing.
 - To limit "traffic" on the property and any cars potentially bumping into one another.
@@ -48,6 +48,8 @@ If you have more than 2 vehicles, you are welcome to park an additional vehicle 
 [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
 
 ### Arriving Early to the Property
+
+Please do not arrive to the property until check-in time. We mean no disrespect to you, or your plans. 
 
 - No cars are allowed to be left parked in the driveway, or on the street in front of the house either before check-in time, or after check out time.
 - You may not stay past your check out time to use the pool.

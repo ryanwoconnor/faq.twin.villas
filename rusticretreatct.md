@@ -37,6 +37,16 @@ Please do not arrive to the property until check-in time. We mean no disrespect 
 - You may not stay past your check out time to use the pool.
 - You may not arrive before your check-in time to use the pool.
 
+### Apple TV Remote
+
+To use the Apple TV Remote you can follow the following instructions:
+
+{% include appletvremote.html %}
+
+### Thermostats
+
+There are 5 thermostats at this location. 3 are for **heat only**. 2 are for air conditioners. 
+
 #### Heat
 
 The thermostats shown below are for **HEAT** only. The apartment is equipped with electric heat. The thermostats are located in each bedroom, and one just outside the bathroom door. Photos of them are located here:

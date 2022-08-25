@@ -29,11 +29,11 @@ If you have more than 2 vehicles, you are welcome to park an additional vehicle 
 
 [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
 
-**No cars are allowed to be left parked in the driveway, or on the street in front of the house either before check-in time, or after checkout time.**
+### Arriving Early to the Property
 
-### Thermostat Information
-
-We have five thermostats in this apartment.
+- No cars are allowed to be left parked in the driveway, or on the street in front of the house either before check-in time, or after check out time.
+- You may not stay past your check out time to use the pool.
+- You may not arrive before your check-in time to use the pool.
 
 #### Heat
 
@@ -76,7 +76,9 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 ### FAQ
 
 1. There is someone outside by the pool. Do I need to be alarmed?
+
    - As described in the listing when you booked, the pool area is a shared space. As a result, you will likely encounter people out there. There should not be any parties, loud music, drinking, smoking, or other dangerous activities taking place by the pool. All guests should be following the posted pool rules. If at any time you are concerned for your safety, or the safety of others, please contact your host immediately.
+
 2. Will I have the entire house to myself?
 
    - As described in the listing, this is a separate upstairs apartment overlooking multiple beautiful farms in Stonington, CT. The apartment is zoned separately from the main floor of the house where I live. There is a separate entrance and set of stairs up to the private apartment. There are no shared living spaces. You will have your own kitchen, living room, bathroom, bedrooms, and deck (including a propane fire table). That being said, you do have access to the entire outside property (3.5 acres) with this reservation and at times these spaces are shared with myself or other friends/guests.
@@ -106,7 +108,12 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
    - No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy.
 
 9. Is the pool heated?
+
    - Unfortunately, no the pool is not heated.
+
+10. Where is the iron?
+
+- The iron is located in the bedroom closet.
 
 {% include localrecommendations.html %}
 

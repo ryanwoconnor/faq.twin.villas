@@ -47,7 +47,11 @@ If you have more than 2 vehicles, you are welcome to park an additional vehicle 
 
 [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
 
-**No cars are allowed to be left parked in the driveway, or on the street in front of the house either before check-in time, or after checkout time.**
+### Arriving Early to the Property
+
+- No cars are allowed to be left parked in the driveway, or on the street in front of the house either before check-in time, or after check out time.
+- You may not stay past your check out time to use the pool.
+- You may not arrive before your check-in time to use the pool.
 
 ### FAQ
 
@@ -89,7 +93,16 @@ If you have more than 2 vehicles, you are welcome to park an additional vehicle 
    - No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy.
 
 10. Is the pool heated?
-    - Unfortunately, no the pool is not heated.
+
+- Unfortunately, no the pool is not heated.
+
+11. Can I drop-off my car before check-in time?
+
+- No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
+
+12. Can I leave my car after I checkout?
+
+- No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
 
 {% include localrecommendations.html %}
 

@@ -78,56 +78,56 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 ### FAQ
 
 1. There is someone outside by the pool. Do I need to be alarmed?
-
-   - As described in the listing when you booked, the pool area is a shared space. As a result, you will likely encounter people out there. There should not be any parties, loud music, drinking, smoking, or other dangerous activities taking place by the pool. All guests should be following the posted pool rules. If at any time you are concerned for your safety, or the safety of others, please contact your host immediately.
-
+    
+    - As described in the listing when you booked, the pool area is a shared space. As a result, you will likely encounter people out there. There should not be any parties, loud music, drinking, smoking, or other dangerous activities taking place by the pool. All guests should be following the posted pool rules. If at any time you are concerned for your safety, or the safety of others, please contact your host immediately.
+    
 2. Will I have the entire house to myself?
-
-   - As described in the listing, this is a separate upstairs apartment overlooking multiple beautiful farms in Stonington, CT. The apartment is zoned separately from the main floor of the house where I live. There is a separate entrance and set of stairs up to the private apartment. There are no shared living spaces. You will have your own kitchen, living room, bathroom, bedrooms, and deck (including a propane fire table). That being said, you do have access to the entire outside property (3.5 acres) with this reservation and at times these spaces are shared with myself or other friends/guests.
-
+    
+    - As described in the listing, this is a separate upstairs apartment overlooking multiple beautiful farms in Stonington, CT. The apartment is zoned separately from the main floor of the house where I live. There is a separate entrance and set of stairs up to the private apartment. There are no shared living spaces. You will have your own kitchen, living room, bathroom, bedrooms, and deck (including a propane fire table). That being said, you do have access to the entire outside property (3.5 acres) with this reservation and at times these spaces are shared with myself or other friends/guests.
+    
 3. Can I use the pool?
-
-   - Absolutely you are allowed to use the pool. Our list of pool rules can be [found here.](/rusticretreat/poolrules)
-
+    
+    - Absolutely you are allowed to use the pool. Our list of pool rules can be [found here.](/rusticretreat/poolrules)
+    
 4. Can I have a late checkout or early check-in?
-
-   - No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans.
-
+    
+    - No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans.
+    
 5. When was the house built?
-
-   - The house was originally constructed in 1934.
-
+    
+    - The house was originally constructed in 1934.
+    
 6. Is there any other cool history about the property?
-
-   - We are directly adjacent to the estate of [Sergio Franchi](https://en.wikipedia.org/wiki/Sergio_Franchi). This is the reason for the name Sergio Franchi Drive.
-
+    
+    - We are directly adjacent to the estate of [Sergio Franchi](https://en.wikipedia.org/wiki/Sergio_Franchi). This is the reason for the name Sergio Franchi Drive.
+    
 7. Can I walk down the road next door?
-
-   - You are more than welcome to take a stroll down Sergio Franchi Drive. You will notice that the road comes to a natural point where the stonewalls end. This is where the public road ends, and the private estate begins. Please do not go onto the private estate.
-
+    
+    - You are more than welcome to take a stroll down Sergio Franchi Drive. You will notice that the road comes to a natural point where the stonewalls end. This is where the public road ends, and the private estate begins. Please do not go onto the private estate.
+    
 8. If I checkout early, can my trip price be reduced?
-
-   - No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy.
-
+    
+    - No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy.
+    
 9. Is the pool heated?
 
-   - Unfortunately, no the pool is not heated.
-
+    - Unfortunately, no the pool is not heated.
+    
 10. Will the pool be open when I arrive?
-
-   - Unless otherwise noted, the pool is **only** guaranteed to be open between Memorial Day and Labor day. The reason being: we live in New England and it's impossible to keep an outdoor pool open year round. This means if you are planning a trip to arrive on September 10th, the pool may no longer be open. It's possible that we'll keep the pool open a bit longer than Labor Day, we just can't guarantee it.
-
+    
+    - Unless otherwise noted, the pool is **only** guaranteed to be open between Memorial Day and Labor day. The reason being: we live in New England and it's impossible to keep an outdoor pool open year round. This means if you are planning a trip to arrive on September 10th, the pool may no longer be open. It's possible that we'll keep the pool open a bit longer than Labor Day, we just can't guarantee it.
+    
 11. Where is the iron?
-
+    
    - The iron is located in the bedroom closet.
-
+    
 12. Can I drop-off my car before check-in time?
-
-   - No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
-
+    
+    - No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
+    
 13. Can I leave my car after I checkout?
-
-   - No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
+    
+    - No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)
 
 {% include localrecommendations.html %}
 

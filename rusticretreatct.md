@@ -157,7 +157,7 @@ Pool rules can be [found at this link.](/rusticretreat/poolrules)
 
 {% include packages.html %}
 
-{% include tp.html %}
+{% include tp_trash.html %}
 
 {% include lostandfound.html %}
 

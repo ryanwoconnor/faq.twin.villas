@@ -123,7 +123,7 @@ The back door to the house is a standard patio door. Specifically, it is an [And
 
 {% include smoking.html %}
 
-{% include tp.html %}
+{% include tp_trash.html %}
 
 {% include lostandfound.html %}
 

@@ -72,7 +72,7 @@ No cars are allowed to be left parked in the driveway, or on the street in front
 
 {% include smoking.html %}
 
-{% include tp.html %}
+{% include tp_trash.html %}
 
 {% include lostandfound.html %}
 

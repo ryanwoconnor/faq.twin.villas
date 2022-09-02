@@ -36,6 +36,16 @@ Please limit the number of vehicles to no more than 2 cars. If you do need to br
 
 No cars are allowed to be left parked in the driveway, or on the street in front of the house, after checkout time.
 
+### Checkout Instructions
+
+Our checkout instructions are hopefully simple, but please let us know if you have any questions. 
+
+* Wash all dishes prior to departure. Do not leave **any** dishes in the dishwasher when you leave. Specifically please do not start the dishwasher when you leave. 
+* Do not strip the beds, our cleaners will take care of that. 
+* Place any towels or other laundry in the laundry room downstairs.
+* Place all trash and recycling in the bins outside when you leave. Blue is for recycling, grey is for trash.
+* No cars are allowed to be left parked in the driveway, or on the street in front of the house, after checkout time.
+
 ### FAQ
 
 1. How do I turn on the Stove?

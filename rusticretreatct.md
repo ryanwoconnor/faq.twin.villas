@@ -73,13 +73,7 @@ We have two air conditioners in the apartment. They are located in the bedroom a
 
 <a href="assets/images/main_remote_2.jpeg"><img width="50%" height="50%" src="assets/images/main_remote_2.jpeg"/></a>
 
-### Trash and Recycling
-
-🟢 Green Bin is for Recycling
-
-⚫ Metal Bin out front is for trash
-
-No trash should be brought to the premises when you arrive. Please also place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
+{% include trash-stonington.html %}
 
 ### Pool Rules
 

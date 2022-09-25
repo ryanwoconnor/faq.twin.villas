@@ -22,13 +22,7 @@ We have three thermostats in this apartment. The apartment is equipped with elec
 
 We have one air conditioner in the apartment. It is located in the kitchen. This unit is not controlled by the thermostats on the walls. You need to utilize the remote control to control it. The remote does have additional controls that you'll find by sliding down the cover of the remote.
 
-### Trash and Recycling
-
-🟢 Green Bin is for Recycling
-
-⚫ Black Bin is for trash
-
-No trash should be brought to the premises when you arrive. Please place all trash and recycling in the appropriate bin before you leave. **Trash must be bagged**
+{% include trash-stonington.html %}
 
 ### Pool Rules
 

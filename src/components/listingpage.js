@@ -32,6 +32,7 @@ function ListingPage(props) {
                   type="text"
                   onChange={inputHandler}
                   label="Search"
+                  placeholder="Click Here to Start Searching..."
                   style={{
                     border: "1px solid #cccccc",
                     padding: "0px",

@@ -7,12 +7,6 @@ function App() {
       <nav>
         <ul>
           <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/about">About</Link>
-          </li>
-          <li>
             <Link to="/rusticretreatct">Rustic Retreat</Link>
           </li>
           <li>
@@ -23,8 +17,6 @@ function App() {
           </li>
         </ul>
       </nav>
-
-      {/* 👇️ Wrap your Route components in a Routes component */}
     </div>
   );
 }

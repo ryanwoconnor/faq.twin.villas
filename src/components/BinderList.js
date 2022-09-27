@@ -23,7 +23,12 @@ function BinderList(props) {
     }
   });
 
-  const exceptions = ["Local Recommendations", "Apple TV Remote", "Fire Table"];
+  const exceptions = [
+    "Local Recommendations",
+    "Apple TV Remote",
+    "Fire Table",
+    "Closing the Back Door",
+  ];
   return (
     <>
       {filteredData.map((item) => (
@@ -32,10 +37,10 @@ function BinderList(props) {
             <>
               {item.heading === "Apple TV Remote" ? (
                 <>
-                  <h2>Apple TV Remote</h2>
+                  <h2 style={{ margin: "0px", padding: "0px" }}>
+                    Apple TV Remote
+                  </h2>
                   <iframe
-                    width="560"
-                    height="315"
                     src="https://www.youtube.com/embed/OdXFLYC8J4o"
                     title="YouTube video player"
                     frameBorder="0"
@@ -48,7 +53,12 @@ function BinderList(props) {
               )}{" "}
               {item.heading === "Local Recommendations" ? (
                 <>
-                  <h2 id="localrecommendations">Local Recommendations</h2>
+                  <h2
+                    style={{ margin: "0px", padding: "0px" }}
+                    id="localrecommendations"
+                  >
+                    Local Recommendations
+                  </h2>
                   <p>
                     Below is a map featuring a number of local recommendations.{" "}
                   </p>{" "}
@@ -88,19 +98,56 @@ function BinderList(props) {
                     style={{ height: "100%", border: "none" }}
                     src="https://www.youtube.com/embed/Sw6Qyfz_p2M"
                     title="YouTube video player"
-                    frameborder="0"
+                    frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen
+                    allowFullScreen
                   ></iframe>
                 </>
               ) : (
                 <></>
               )}{" "}
+              {item.heading === "Closing the Back Door" ? (
+                <>
+                  {" "}
+                  <h2 style={{ margin: "0px", padding: "0px" }}>
+                    {item.heading}
+                  </h2>
+                  <span style={{ size: "10px" }}>
+                    <ReactMarkdown
+                      components={{
+                        img: ({ node, ...props }) => (
+                          <div style={{ width: "100%", textAlign: "center" }}>
+                            <img
+                              style={{
+                                maxWidth: "20%",
+                              }}
+                              {...props}
+                            />
+                          </div>
+                        ),
+                      }}
+                    >
+                      {item.text}
+                    </ReactMarkdown>
+                  </span>
+                  <iframe
+                    src="https://www.youtube.com/embed/H6mOuvIzpKE"
+                    title="YouTube video player"
+                    frameBorder="0"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                  ></iframe>
+                </>
+              ) : (
+                <></>
+              )}
               {exceptions.includes(item.heading) ? (
                 <></>
               ) : (
                 <>
-                  <h2>{item.heading}</h2>
+                  <h2 style={{ margin: "0px", padding: "0px" }}>
+                    {item.heading}
+                  </h2>
                   <span style={{ size: "10px" }}>
                     <ReactMarkdown
                       components={{

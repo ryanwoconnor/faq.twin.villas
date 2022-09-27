@@ -155,7 +155,7 @@ function BinderList(props) {
                           <div style={{ width: "100%", textAlign: "center" }}>
                             <img
                               style={{
-                                maxWidth: "20%",
+                                maxWidth: "30%",
                               }}
                               {...props}
                             />

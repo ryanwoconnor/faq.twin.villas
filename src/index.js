@@ -5,19 +5,23 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { BrowserRouter } from "react-router-dom";
 import { Route, Routes } from "react-router-dom";
-import BeebeBnb from "./components/beebebnb";
-import CarriageHouse from "./components/carriagehousestonington";
-import RusticRetreat from "./components/rusticretreatct";
+import ListingPage from "./components/listingpage";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <BrowserRouter>
     <Routes>
       <Route path="/" element={<App />} />
-      <Route path="/beebebnb" element={<BeebeBnb />}></Route>
-      <Route path="/rusticretreatct" element={<RusticRetreat />}></Route>
+      <Route
+        path="/beebebnb"
+        element={<ListingPage heading="Beebe Cove Bnb" />}
+      ></Route>
+      <Route
+        path="/rusticretreatct"
+        element={<ListingPage heading="Rustic Retreat" />}
+      ></Route>
       <Route
         path="/carriagehousestonington"
-        element={<CarriageHouse />}
+        element={<ListingPage heading="Carriage House Apartment" />}
       ></Route>
     </Routes>
   </BrowserRouter>

@@ -37,7 +37,6 @@
   }
 }
 
-
 .main {
   display: flex;
   height: 100vh;
@@ -58,5 +57,5 @@ h1 {
 }
 
 ul li {
-  font-size: 20px;
-} 
+  font-size: 16px;
+}

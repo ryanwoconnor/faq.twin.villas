@@ -1,4 +1,5 @@
 import { React } from "react";
+import ReactMarkdown from "react-markdown";
 
 function FAQList(props) {
   //create a new array by filtering the original array
@@ -13,11 +14,17 @@ function FAQList(props) {
     }
   });
   return (
-    <ul>
+    <>
+      {" "}
       {filteredData.map((item) => (
-        <li key={item.id}>{item.text}</li>
+        <>
+          <h2>{item.heading}</h2>
+          <span style={{ size: "10px" }}>
+            <ReactMarkdown>{item.text}</ReactMarkdown>
+          </span>
+        </>
       ))}
-    </ul>
+    </>
   );
 }
 

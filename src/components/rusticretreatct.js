@@ -12,12 +12,32 @@ function RusticRetreat() {
   return (
     <div className="main">
       <h1>Rustic Retreat</h1>
-      <input
-        type="text"
-        onChange={inputHandler}
-        label="Search"
-        style={{ border: "1px solid #cccccc" }}
-      />
+      <h2>Virtual Binder</h2>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <h3 style={{ padding: "0px", magin: "0px" }}>
+                Search Through Binder:
+              </h3>{" "}
+            </td>
+            <td>
+              {" "}
+              <input
+                type="text"
+                onChange={inputHandler}
+                label="Search"
+                style={{
+                  border: "1px solid #cccccc",
+                  padding: "0px",
+                  magin: "0px",
+                }}
+              />
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
       <FAQList
         input={inputText}
         list={[
@@ -43,17 +63,17 @@ function RusticRetreat() {
           },
           {
             id: 5,
-            text: 'There are 5 thermostats at this location. 3 are for **heat only**. 2 are for air conditioners. \n\n#### Heat\n\nThe thermostats shown below are for **HEAT** only. The apartment is equipped with electric heat. The thermostats are located in each bedroom, and one just outside the bathroom door. Photos of them are located here:\n\n![image info](assets/images/rr_therm1.jpeg)\n\n\n<img width="50%" height="50%" src="assets/images/rr_therm2.jpeg"/>\n\n<img width="50%" height="50%" src="assets/images/rr_therm3.jpeg"/>\n\n#### Air Conditioning\n\nWe have two air conditioners in the apartment. They are located in the bedroom and in the kitchen. These are not central air, they are referred to as mini splits. These units are **not** controlled by the thermostats on the walls. You need to utilize the remote control to control each of these. Remotes are labeled and images of them are below.\n\n##### Bedroom Air Conditioner Remote\n\n<a href="assets/images/bedroom_remote_1.jpeg"><img width="50%" height="50%" src="assets/images/bedroom_remote_1.jpeg"/></a>\n\n<a href="assets/images/bedroom_remote_2.jpeg"><img width="50%" height="50%" src="assets/images/bedroom_remote_2.jpeg"/></a>\n\n##### Kitchen Air Conditioner Remote\n\n<a href="assets/images/main_remote_1.jpeg"><img width="50%" height="50%" src="assets/images/main_remote_1.jpeg"/></a>\n\n<a href="assets/images/main_remote_2.jpeg"><img width="50%" height="50%" src="assets/images/main_remote_2.jpeg"/></a>',
+            text: "There are 5 thermostats at this location. 3 are for **heat only**. 2 are for air conditioners. \n\n#### Heat\n\nThe thermostats shown below are for **HEAT** only. The apartment is equipped with electric heat. The thermostats are located in each bedroom, and one just outside the bathroom door. Photos of them are located here:\n\n![rr_therm1](assets/images/rr_therm1.jpeg)\n\n\n![rr_therm2](assets/images/rr_therm2.jpeg)\n\n![image info](assets/images/rr_therm3.jpeg)\n\n#### Air Conditioning\n\nWe have two air conditioners in the apartment. They are located in the bedroom and in the kitchen. These are not central air, they are referred to as mini splits. These units are **not** controlled by the thermostats on the walls. You need to utilize the remote control to control each of these. Remotes are labeled and images of them are below.\n\n##### Bedroom Air Conditioner Remote\n\n![image info](assets/images/bedroom_remote_1.jpeg)\n\n![image info](assets/images/bedroom_remote_2.jpeg)\n\n##### Kitchen Air Conditioner Remote\n\n![image info](assets/images/main_remote_1.jpeg)\n\n![image info](assets/images/main_remote_2.jpeg)",
             heading: "Thermostats",
           },
           {
             id: 6,
-            text: "Demivee",
+            text: 'Trash and recycling bins are located on the side of the driveway. **Trash must be bagged**. This is in accordance with town rules. We cannot throw loose trash away at our local transfer station. \n\nIf you do not see the bins outside, it likely means they are inside the yellow shed. You are welcome to open the door and place any trash or recycling in the bins inside of the shed. \n\n🔴 Red Bin is for Trash\n\n🟢 Green Bin is for Recycling\n\n**Other notes:**\n\nNo trash should be brought to the premises when you arrive. \n\nPlease place all trash and recycling in the appropriate bin before you leave.\n\nAny guests who create excess trash will be charged accordingly for removal. If you\'re unclear on what "excess trash" means in relation to your visit, please feel free to ask. \n\n* As an example, you should not plan to throw a party and leave us with 12 bags of trash.',
             heading: "Trash and Recycling",
           },
           {
             id: 7,
-            text: "Jayo",
+            text: "As a guest of this listing, you are welcome to use the pool. The pool is open for use between 8AM and 10PM. Please understand that is a shared space, and so you should be respectful of other guests who may also want to use the pool.\n\nWe leave the lights on around the pool area up until 10PM. We ask that you read and agree to the following rules.\n\n\n\n- No lifeguard on duty, swim at your own risk.\n\n- Shower before entering the pool.\n\n- No animals in pool or on pool deck.\n\n- No food, glassware, or alcoholic beverages allowed in pool or on pool deck.\n\n- No diving or running.\n\n- No boisterous or rough play.\n\n- Children under the age of 14 years old shall not use pool without a parent or adult guardian in attendance.\n\n- 8 persons allowed in the pool at one time.\n\n- For Emergency Assistance Dial 911.\n\n- No Parties. \n\n- No loud music. You may play music quietly - but no loud music from bluetooth speakers or other devices. \n\n- Pool Hours: 8AM through 10PM\n\n- No unregistered guests at the pool without permission from host. Any unregistered guests at the pool who have not been cleared with host will be asked to leave.",
             heading: "Pool Rules",
           },
           {
@@ -93,7 +113,7 @@ function RusticRetreat() {
           },
           {
             id: 15,
-            text: 'We thank you in advance for keeping our property free of smoking and vaping.\n\nSmoking and vaping is prohibited on **the entire** property - both inside and out. \n\n<img width="50%" height="50%" src="assets/images/nosmoking.jpg"/>',
+            text: "We thank you in advance for keeping our property free of smoking and vaping.\n\nSmoking and vaping is prohibited on **the entire** property - both inside and out. \n\n![no smoking](assets/images/nosmoking.jpg)",
             heading: "Smoking & Vaping",
           },
           {

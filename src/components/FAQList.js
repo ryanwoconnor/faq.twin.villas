@@ -100,7 +100,22 @@ function FAQList(props) {
             <>
               <h2>{item.heading}</h2>
               <span style={{ size: "10px" }}>
-                <ReactMarkdown>{item.text}</ReactMarkdown>
+                <ReactMarkdown
+                  components={{
+                    img: ({ node, ...props }) => (
+                      <div style={{ width: "100%", textAlign: "center" }}>
+                        <img
+                          style={{
+                            maxWidth: "20%",
+                          }}
+                          {...props}
+                        />
+                      </div>
+                    ),
+                  }}
+                >
+                  {item.text}
+                </ReactMarkdown>
               </span>
             </>
           )}

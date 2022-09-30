@@ -185,8 +185,7 @@ function BinderList(props) {
           )}
         </>
       ))}
-
-      <h1>FAQ</h1>
+      {filteredFAQ.length > 0 ? <h1>FAQ</h1> : <></>}
 
       {filteredFAQ.map((item) => (
         <>

@@ -267,7 +267,11 @@ function ListingPage(props) {
               listings: ["/carriagehousestonington"],
               meta: "FAQ for Carriage House",
             },
-          ]}
+          ].sort(function (a, b) {
+            var textA = a.text.toUpperCase();
+            var textB = b.text.toUpperCase();
+            return textA < textB ? -1 : textA > textB ? 1 : 0;
+          })}
           list={[
             {
               id: 1,
@@ -527,7 +531,11 @@ function ListingPage(props) {
               ],
               meta: "Parking for Beebe bnb",
             },
-          ]}
+          ].sort(function (a, b) {
+            var textA = a.heading.toUpperCase();
+            var textB = b.heading.toUpperCase();
+            return textA < textB ? -1 : textA > textB ? 1 : 0;
+          })}
         />
       </div>
     </div>

@@ -23,6 +23,17 @@ function BinderList(props) {
     }
   });
 
+  //create a new array by filtering the original array
+  const filteredFAQ = props.faqlist.filter((el) => {
+    //if no input the return the original
+    if (props.input === "") {
+      return el;
+    }
+    //return the item which contains the user input
+    else {
+      return el.text.toLowerCase().includes(props.input);
+    }
+  });
   const exceptions = [
     "Local Recommendations",
     "Apple TV Remote",
@@ -168,6 +179,36 @@ function BinderList(props) {
                   </span>
                 </>
               )}
+            </>
+          ) : (
+            <></>
+          )}
+        </>
+      ))}
+
+      <h1>FAQ</h1>
+
+      {filteredFAQ.map((item) => (
+        <>
+          {item.listings.includes(props.path) ? (
+            <>
+              <h2>{item.text}</h2>
+              <ReactMarkdown
+                components={{
+                  img: ({ node, ...props }) => (
+                    <div style={{ width: "100%", textAlign: "center" }}>
+                      <img
+                        style={{
+                          maxWidth: "30%",
+                        }}
+                        {...props}
+                      />
+                    </div>
+                  ),
+                }}
+              >
+                {item.answer}
+              </ReactMarkdown>
             </>
           ) : (
             <></>

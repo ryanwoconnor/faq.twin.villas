@@ -4,6 +4,7 @@ import BinderList from "./BinderList";
 import { useLocation } from "react-router-dom";
 function ListingPage(props) {
   const [inputText, setInputText] = useState("");
+
   let inputHandler = (e) => {
     var lowerCase = e.target.value.toLowerCase();
     setInputText(lowerCase);
@@ -48,6 +49,225 @@ function ListingPage(props) {
         <BinderList
           path={location.pathname}
           input={inputText}
+          faqlist={[
+            {
+              id: 35,
+              text: "There is someone outside by the pool. Do I need to be alarmed?",
+              answer:
+                "- As described in the listing when you booked, the pool area is a shared space. As a result, you may encounter people out there. There should not be any parties, loud music, drinking, smoking, or other dangerous activities taking place by the pool. All guests should be following the posted pool rules. If at any time you are concerned for your safety, or the safety of others, please contact your host immediately.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/rusticretreatct", "/carriagehousestonington"],
+              meta: "FAQ for Rustic Retreat",
+            },
+            {
+              id: 36,
+              text: "Will I have the entire house to myself?",
+              answer:
+                "- As described in the listing, this is a separate upstairs apartment overlooking multiple beautiful farms in Stonington, CT. The apartment is zoned separately from the main floor of the house where I live. There is a separate entrance and set of stairs up to the private apartment. There are no shared living spaces. You will have your own kitchen, living room, bathroom, bedrooms, and deck (including a propane fire table). That being said, you do have access to the entire outside property (3.5 acres) with this reservation and at times these spaces are shared with myself or other friends/guests.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/rusticretreatct"],
+              meta: "FAQ for Rustic Retreat",
+            },
+            {
+              id: 37,
+              text: "Can I use the pool?",
+              answer:
+                "- Absolutely you are allowed to use the pool. Our list of pool rules can be found in this binder. \n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/rusticretreatct", "/carriagehousestonington"],
+              meta: "FAQ for Rustic Retreat",
+            },
+            {
+              id: 38,
+              text: "When was the house built?",
+              answer: "- The house was originally constructed in 1934.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/rusticretreatct"],
+              meta: "FAQ for Rustic Retreat",
+            },
+            {
+              id: 39,
+              text: "Is there any other cool history about the property?",
+              answer:
+                "- We are directly adjacent to the estate of [Sergio Franchi](https://en.wikipedia.org/wiki/Sergio_Franchi). This is the reason for the name Sergio Franchi Drive.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/rusticretreatct", "/carriagehousestonington"],
+              meta: "FAQ for Rustic Retreat",
+            },
+            {
+              id: 40,
+              text: "Can I walk down the road next door?",
+              answer:
+                "- You are more than welcome to take a stroll down Sergio Franchi Drive. You will notice that the road comes to a natural point where the stonewalls end. This is where the public road ends, and the private estate begins. Please do not go onto the private estate.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/rusticretreatct", "/carriagehousestonington"],
+              meta: "FAQ for Rustic Retreat",
+            },
+            {
+              id: 42,
+              text: "Is the pool heated?",
+              answer: "- Unfortunately, no the pool is not heated.",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/rusticretreatct", "/carriagehousestonington"],
+              meta: "FAQ for Rustic Retreat",
+            },
+            {
+              id: 43,
+              text: "Will the pool be open when I arrive?",
+              answer:
+                "- Unless otherwise noted, the pool is **only** guaranteed to be open between Memorial Day and Labor day. The reason being: we live in New England and it's impossible to keep an outdoor pool open year round. This means if you are planning a trip to arrive on September 10th, the pool may no longer be open. It's possible that we'll keep the pool open a bit longer than Labor Day, we just can't guarantee it.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/rusticretreatct", "/carriagehousestonington"],
+              meta: "FAQ for Rustic Retreat",
+            },
+            {
+              id: 44,
+              text: "Where is the iron?",
+              answer: "- The iron is located in the bedroom closet.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/rusticretreatct"],
+              meta: "FAQ for Rustic Retreat",
+            },
+            {
+              id: 45,
+              text: "Can I drop-off my car before check-in time?",
+              answer:
+                "- No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/rusticretreatct", "/carriagehousestonington"],
+              meta: "FAQ for Rustic Retreat",
+            },
+            {
+              id: 46,
+              text: "Can I leave my car after I checkout?",
+              answer:
+                "- No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/rusticretreatct", "/carriagehousestonington"],
+              meta: "FAQ for Rustic Retreat",
+            },
+            {
+              id: 47,
+              text: "How do I turn on the Stove?",
+              answer:
+                "- Video on [Glide Touch Controls](https://www.youtube.com/embed/Lj3tS_uROFc?rel=0)\n\n- Video on [Induction Cooktop Technology](https://www.youtube.com/embed/7Q20zZJAwD4?rel=0)\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/beebebnb"],
+              meta: "FAQ for Beebe Bnb",
+            },
+            {
+              id: 48,
+              text: "Do I need to feed the fish?",
+              answer:
+                "- You do not need to feed the fish! They are fed regularly with pellets. When they are not fed pellets, they still enjoy feeding off of organic matter.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/beebebnb"],
+              meta: "FAQ for Beebe Bnb",
+            },
+            {
+              id: 49,
+              text: "There is someone outside mowing the lawn. Do I need to be alarmed?",
+              answer:
+                "- You do not need to be worried. Chances are it is your host stopping by. Apologies for any inconvenience this may cause.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: [
+                "/beebebnb",
+                "/carriagehousestonington",
+                "/rusticretreatct",
+              ],
+              meta: "FAQ for Beebe Bnb",
+            },
+            {
+              id: 50,
+              text: "My checkout is at 11AM, can I leave my car parked outside the driveway on the road?",
+              answer:
+                "- No you may not do this. After checkout, you will need to remove your vehicle entirely from the property - including street parking in front of the house.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: ["/beebebnb"],
+              meta: "FAQ for Beebe Bnb",
+            },
+            {
+              id: 51,
+              text: "Can I have a late checkout or early check-in?",
+              answer:
+                "- No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: [
+                "/beebebnb",
+                "/carriagehousestonington",
+                "/rusticretreatct",
+              ],
+              meta: "FAQ for Beebe Bnb",
+            },
+            {
+              id: 52,
+              text: "If I checkout early, can my trip price be reduced?",
+              answer:
+                "- No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy.",
+              heading: "FAQ",
+              type: "FAQ",
+
+              listings: [
+                "/beebebnb",
+                "/carriagehousestonington",
+                "/rusticretreatct",
+              ],
+              meta: "FAQ for Beebe Bnb",
+            },
+            {
+              id: 53,
+              text: "How do I turn on the overhead fan?",
+              answer:
+                "- You should see a circle shaped light switch behind the lamp next to the couch. This switch controls the overhead fan. Note that it does not control the speed of the fan. The fan is either on or off.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+              listings: ["/carriagehousestonington"],
+              meta: "FAQ for Carriage House",
+            },
+
+            {
+              id: 54,
+              text: "Is there cable TV?",
+              answer:
+                "- We do not have Cable TV at this listing. There are plenty of streaming apps available on the Roku TV in the living room.\n\n",
+              heading: "FAQ",
+              type: "FAQ",
+              listings: ["/carriagehousestonington"],
+              meta: "FAQ for Carriage House",
+            },
+          ]}
           list={[
             {
               id: 1,
@@ -306,32 +526,6 @@ function ListingPage(props) {
                 "/carriagehousestonington",
               ],
               meta: "Parking for Beebe bnb",
-            },
-            {
-              id: 33,
-              text: "1. How do I turn on the Stove?\n\n- Video on [Glide Touch Controls](https://www.youtube.com/embed/Lj3tS_uROFc?rel=0)\n\n- Video on [Induction Cooktop Technology](https://www.youtube.com/embed/7Q20zZJAwD4?rel=0)\n\n2. Do I need to feed the fish?\n\n- You do not need to feed the fish! They are fed regularly with pellets. When they are not fed pellets, they still enjoy feeding off of organic matter.\n\n3. There is someone outside mowing the lawn. Do I need to be alarmed?\n\n- You do not need to be worried. Chances are it is your host stopping by and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause.\n\n4. My checkout is at 11AM, can I leave my car parked outside the driveway on the road?\n\n- No you may not do this. After checkout, you will need to remove your vehicle entirely from the property - including street parking in front of the house.\n\n5. Can I have a late checkout or early check-in?\n\n- No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans.\n\n6. If I checkout early, can my trip price be reduced?\n\n- No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy.",
-              heading: "FAQ",
-              type: "FAQ",
-
-              listings: ["/beebebnb"],
-              meta: "FAQ for Beebe Bnb",
-            },
-            {
-              id: 34,
-              text: "1. How do I turn on the overhead fan?\n\n- You should see a circle shaped light switch behind the lamp next to the couch. This switch controls the overhead fan. Note that it does not control the speed of the fan. The fan is either on or off.\n\n2. Is there cable TV?\n\n- We do not have Cable TV at this listing. There are plenty of streaming apps available on the Roku TV in the living room.\n\n3. There is someone outside mowing the lawn. Do I need to be alarmed?\n\n- You do not need to be worried. Chances are it is your host outside mowing the lawn and chances are I've also sent you a message in advance. Apologies for any inconvenience this may cause.\n\n4. There is someone outside by the pool. Do I need to be alarmed?\n\n- As described in the listing when you booked, the pool area is a shared space. As a result, you may encounter people out there. There should not be any parties, loud music, drinking, smoking, or other dangerous activities taking place by the pool. All guests should be following the posted pool rules. If at any time you are concerned for your safety, or the safety of others, please contact your host immediately.\n\n5. Can I use the pool?\n\n- Absolutely you are allowed to use the pool. Our list of pool rules can be [found here.](/carriagehouse/poolrules)\n\n6. Can I have a late checkout or early check-in?\n\n- No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans.\n\n7. Is there any other cool history about the property?\n\n- We are directly adjacent to the estate of [Sergio Franchi](https://en.wikipedia.org/wiki/Sergio_Franchi). This is the reason for the name Sergio Franchi Drive.\n\n8. Can I walk down the road next door?\n\n- You are more than welcome to take a stroll down Sergio Franchi Drive. You will notice that the road comes to a natural point where the stonewalls end. This is where the road ends, and the private estate begins. **Please do not go onto the private estate.**\n\n9. If I checkout early, can my trip price be reduced?\n\n- No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy.\n\n10. Is the pool heated?\n\n- Unfortunately, no the pool is not heated.\n\n11. Can I drop-off my car before check-in time?\n\n- No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)\n\n12. Can I leave my car after I checkout?\n\n- No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)",
-              heading: "FAQ",
-              type: "FAQ",
-              listings: ["/carriagehousestonington"],
-              meta: "FAQ for Carriage House",
-            },
-            {
-              id: 35,
-              text: "1. There is someone outside by the pool. Do I need to be alarmed?\n\n- As described in the listing when you booked, the pool area is a shared space. As a result, you may encounter people out there. There should not be any parties, loud music, drinking, smoking, or other dangerous activities taking place by the pool. All guests should be following the posted pool rules. If at any time you are concerned for your safety, or the safety of others, please contact your host immediately.\n\n2. Will I have the entire house to myself?\n\n- As described in the listing, this is a separate upstairs apartment overlooking multiple beautiful farms in Stonington, CT. The apartment is zoned separately from the main floor of the house where I live. There is a separate entrance and set of stairs up to the private apartment. There are no shared living spaces. You will have your own kitchen, living room, bathroom, bedrooms, and deck (including a propane fire table). That being said, you do have access to the entire outside property (3.5 acres) with this reservation and at times these spaces are shared with myself or other friends/guests.\n\n3. Can I use the pool?\n\n- Absolutely you are allowed to use the pool. Our list of pool rules can be [found here.](/rusticretreat/poolrules)\n\n4. Can I have a late checkout or early check-in?\n\n- No. The reason is that we are booked very regularly. As a result, it becomes very hard on your host and their cleaners to constantly need to handle late checkouts and early check-ins. Our check-in and check-out times give our cleaner ample time to ensure the space is in pristine condition between guests. If you have an extreme need for an early check-in or late check-out you may ask, but please be aware that it is hard to accomodate these all the time - especially during summer months and we reserve the right to say no. We mean no disrespect to you, or your plans.\n\n5. When was the house built?\n\n- The house was originally constructed in 1934.\n\n6. Is there any other cool history about the property?\n\n- We are directly adjacent to the estate of [Sergio Franchi](https://en.wikipedia.org/wiki/Sergio_Franchi). This is the reason for the name Sergio Franchi Drive.\n\n7. Can I walk down the road next door?\n\n- You are more than welcome to take a stroll down Sergio Franchi Drive. You will notice that the road comes to a natural point where the stonewalls end. This is where the public road ends, and the private estate begins. Please do not go onto the private estate.\n\n8. If I checkout early, can my trip price be reduced?\n\n- No. Unfortunately at this time we cannot offer discounts for guests that checkout early. If you need to cancel your stay, please see the section related to our cancellation policy.\n\n9. Is the pool heated?\n\n- Unfortunately, no the pool is not heated.\n\n10. Will the pool be open when I arrive?\n\n- Unless otherwise noted, the pool is **only** guaranteed to be open between Memorial Day and Labor day. The reason being: we live in New England and it's impossible to keep an outdoor pool open year round. This means if you are planning a trip to arrive on September 10th, the pool may no longer be open. It's possible that we'll keep the pool open a bit longer than Labor Day, we just can't guarantee it.\n\n11. Where is the iron?\n\n- The iron is located in the bedroom closet.\n\n12. Can I drop-off my car before check-in time?\n\n- No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)\n\n13. Can I leave my car after I checkout?\n\n- No, you may not do this. If you need to consolidate cars for some reason, we recommend using a nearby commuter parking lot located at [15 Taugwonk Road, Stonington CT, 06378](https://www.google.com/search?q=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&oq=15+Taugwonk+Road%2C+Stonington+CT%2C+06378&aqs=chrome..69i57j33i299j33i22i29i30.549j0j7&sourceid=chrome&ie=UTF-8#)",
-              heading: "FAQ",
-              type: "FAQ",
-
-              listings: ["/rusticretreatct"],
-              meta: "FAQ for Rustic Retreat",
             },
           ]}
         />
